@@ -10,31 +10,33 @@ This project implements an end-to-end pipeline for:
 
 
 ## Project Structure
+```plaintext
 fairmoney/
 │
 ├── data/
-│   ├── raw/                # Raw input data
-│   ├── processed/          # Processed feature data
+│ ├── raw/ # Raw input data
+│ ├── processed/ # Processed feature data
 │
 ├── features/
-│   ├── credit_feature_extraction.py       # Class to create features from JSON file
-│   ├── credit_report_feature_creation.py  # Extracted features functions
+│ ├── credit_feature_extraction.py # Class to create features from JSON file
+│ ├── credit_report_feature_creation.py # Extracted features functions
 │
 ├── reports/
-│   ├── eda/                # EDA visualizations
-│   ├── feature_importance/ # Feature importance plots & CSVs
-│   ├── model_performance/  # Model performance reports
+│ ├── eda/ # EDA visualizations
+│ ├── feature_importance/ # Feature importance plots & CSVs
+│ ├── model_performance/ # Model performance reports
 │
-├── models/                 # Saved ML models
+├── models/ # Saved ML models
 │
 ├── src/
-│   ├── data_preprocessing.py
-│   ├── eda.py
-│   ├── model_pipeline.py
+│ ├── data_preprocessing.py
+│ ├── eda.py
+│ ├── model_pipeline.py
 │
-├── main.py                 # Main script to run pipeline
-├── requirements.txt        # Python dependencies
+├── main.py # Main script to run pipeline
+├── requirements.txt # Python dependencies
 └── README.md
+```
 
 
 ## Installation
