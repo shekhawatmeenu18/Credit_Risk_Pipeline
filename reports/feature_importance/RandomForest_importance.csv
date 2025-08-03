@@ -1,0 +1,57 @@
+Feature,Importance
+num__checking_balance,0.11644061578756609
+num__amount,0.08758705403610988
+num__savings_balance,0.07675289429947471
+num__age,0.0686825322687137
+num__months_loan_duration,0.06412260969267113
+num__employment_months,0.06405812610198365
+num__residence_months,0.055416328566689335
+num__installment_rate,0.028831941215833556
+cat__credit_history_critical,0.01879801021281275
+num__existing_credits,0.017345008641160807
+cat__credit_history_repaid,0.01530710851042138
+cat__installment_plan_bank,0.014977059713500525
+cat__installment_plan_none,0.014678345145056778
+cat__purpose_car (new),0.014634426535328801
+cat__property_real estate,0.014489085086591035
+cat__property_unknown/none,0.013933742100575769
+cat__housing_own,0.013727469048193185
+cat__employment_bucket_<1 year,0.01318216615458987
+cat__job_skilled employee,0.01293136561819335
+cat__gender_male,0.012130637627587898
+cat__property_other,0.011789153789443176
+cat__purpose_radio/tv,0.011640714858982881
+cat__gender_female,0.010891298482431727
+cat__purpose_furniture,0.010334537704455724
+cat__residence_bucket_7+ years,0.010290365064547134
+cat__property_building society savings,0.010191848965007458
+cat__employment_bucket_3-7 years,0.010188682579259308
+cat__job_mangement self-employed,0.010000004290210541
+cat__purpose_education,0.009892318176658315
+cat__housing_rent,0.009788484766355236
+cat__job_unskilled resident,0.009525595873681975
+cat__employment_bucket_1-3 years,0.0090644662012825
+num__dependents,0.008979520273552689
+cat__employment_bucket_7+ years,0.008967705338240558
+cat__residence_bucket_<6 months,0.008749003437925769
+cat__residence_bucket_6-12 months,0.008490458448063181
+cat__residence_bucket_3-7 years,0.008322040231652608
+cat__purpose_car (used),0.007947510602895749
+cat__personal_status_single,0.007947290691893047
+cat__purpose_business,0.007677081205955164
+cat__housing_for free,0.007291100701553379
+cat__credit_history_delayed,0.006961383144977769
+cat__other_debtors_none,0.006895216043429125
+cat__personal_status_divorced,0.006720750018073291
+cat__residence_bucket_1-3 years,0.00635766990154235
+cat__personal_status_married,0.006111686117582796
+cat__installment_plan_stores,0.005470929391981812
+cat__other_debtors_co-applicant,0.005090590137971155
+cat__other_debtors_guarantor,0.004449947150424656
+cat__purpose_repairs,0.0039901337060150215
+cat__job_unemployed non-resident,0.0031667266950314707
+cat__foreign_worker_no,0.0026829463963676786
+cat__foreign_worker_yes,0.002267474130422847
+cat__purpose_domestic appliances,0.0020634975163391516
+cat__purpose_others,0.0013081725155274326
+cat__purpose_retraining,0.0004671690872111604
